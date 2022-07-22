@@ -48,7 +48,7 @@ If you want to make search results more precise, you can filter them by styles, 
 * **Designers.** Provides an option to choose between icons made by our in-house team or those created by independent authors.
     
 
-**Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](https://folkarchive.atlassian.net/wiki/spaces/ICONS8/pages/1114113/Working+with+Icons8#Editor) for further customization.
+**Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](https://github.com/Vargavinter/icons8docs/edit/main/Icons.md#editor) for further customization.
 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
