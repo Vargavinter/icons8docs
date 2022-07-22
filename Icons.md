@@ -41,7 +41,10 @@ At the top of the results appear those icons that contain the search word in the
 
 If you want to make search results more precise, you can filter them by styles, types, or designers.
 
-![Search filters](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/filters2.png?token=GHSAT0AAAAAABWYONLKAACRXTBCG3P6PORIYW2WE5A)
+<p align="center">
+  <img width="800" height="432" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/filters2.png">
+</p>
+
 
   
 
@@ -56,7 +59,9 @@ If you want to make search results more precise, you can filter them by styles, 
 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
-![Categories](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/categories.png?token=GHSAT0AAAAAABWYONLK6XTNULADJCNXIH2WYW2WKQA)
+<p align="center">
+  <img width="900" height="605" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/categories.png">
+</p>
 
   
 Take on board that there are three free icon categories: **Logos**, **Popular** and **Characters**. All download options for those icons are available from the get-go but using them still requires attribution.
@@ -95,11 +100,13 @@ If you want to have more formats such as .ico, .xaml and .eps, consider using [P
 |          **JSON**         | A more advanced format. Lottie is a library that renders animations on mobile or on the web and makes animated icons run smoothly.  |
 | **After Effects project** | Lets you use our icons for creating videos.                                                                                         |
 
-**Additional features**  
+### Additional features 
 
 The **preview** area displays how an icon will look in your project. You can switch between light and dark backgrounds by clicking the corresponding buttons in the top-right corner of the menu (Light/Dark).
 
-![](attachments/65657/3571733.png?width=204)
+<p align="center">
+  <img width="800" height="530" src="https://github.com/Vargavinter/icons8docs/blob/7a947aae5ad55d4bbffaa4059dd4a601ec5e1bb9/images/preview.png">
+</p>
 
 If you want to edit an icon, choose either **Edit in Lunacy** or **Edit in Mega Creator** buttons. You can use Mega Creator if you want to combine an icon with other elements like text or graphics. Lunacy lets you edit vector icons and change them in any way you want. Note that these options are unavailable for _Animated icons_.
 
