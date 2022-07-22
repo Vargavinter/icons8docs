@@ -15,7 +15,7 @@ Each time you visit [icons8.com](http://icons8.com/) you are greeted by the sear
   <img width="700" height="348" src="https://github.com/Vargavinter/icons8docs/blob/85d3d9fe59d00777439c21b19f8a09cac216c7f7/images/landing.png">
 </p>
 
-Just type in a request into the search bar and click the **Search** button, you will see the search results page with a variety of icons in different styles.
+Just type in a request into the search bar and click the  <img align="center" height="35" src="https://github.com/Vargavinter/icons8docs/blob/f99bd083690d40dc538192a32edf83369acf7bbe/images/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
 
 At the top of the results appear those icons that contain the search word in their name or synonymical words.
 
