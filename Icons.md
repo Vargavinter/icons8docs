@@ -52,7 +52,7 @@ If you want to make search results more precise, you can filter them by styles, 
 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
-![](attachments/65657/720913.png)
+![Categories](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/categories.png?token=GHSAT0AAAAAABWYONLK6XTNULADJCNXIH2WYW2WKQA)
 
   
 Take on board that there are three free icon categories: **Logos**, **Popular** and **Characters**. All download options for those icons are available from the get-go but using them still requires attribution.
