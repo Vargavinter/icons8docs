@@ -114,7 +114,7 @@ If you want to edit an icon, choose either the  <img align="center" height="40
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk.
 
-You can find all your collections if you click the **Open Collections** button in the bottom-left corner of the screen. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
+You can find all your collections if you click the  <img align="center" height="40" src="https://github.com/Vargavinter/icons8docs/blob/f8492f5ab718ac0755d0125d3156bfddb100c6d8/images/open%20collections.png">  button in the bottom-left corner of the screen. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
 ![](attachments/65657/3571713.png?width=340)
 
