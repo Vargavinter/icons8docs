@@ -60,7 +60,7 @@ If you want to make search results more precise, you can filter them by styles, 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
 <p align="center">
-  <img width="900" height="605" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/categories.png">
+  <img width="819" height="550" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/categories.png">
 </p>
 
   
