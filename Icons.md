@@ -11,7 +11,9 @@ This page is dedicated to our icon library where you can find icons for your des
 
 Each time you visit [icons8.com](http://icons8.com/) you are greeted by the search bar, the main tool to help you find whatever asset you need. By default, it is set to icons, but you can choose any type of asset and start searching.
 
-![Main search bar](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/landing.png?token=GHSAT0AAAAAABWYONLKT7HSJ4I5CU7YOD3IYW2WF4A)
+<p align="center">
+  <img width="700" height="348" src="https://github.com/Vargavinter/icons8docs/blob/85d3d9fe59d00777439c21b19f8a09cac216c7f7/images/landing.png">
+</p>
 
 Just type in a request into the search bar and click the **Search** button, you will see the search results page with a variety of icons in different styles.
 
