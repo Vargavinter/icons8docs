@@ -9,7 +9,7 @@ This page is dedicated to our icon library where you can find icons for your des
 ## Search  
 
 
-Each time you visit [icons8.com](http://icons8.com/) you are greeted by the search bar, the main tool to help you find whatever asset you need. By default, it is set to icons, but you can choose any type of asset and start searching.
+Each time you visit [icons8.com](http://icons8.com/) you are greeted by the search bar, the main tool to help you find whatever asset you need. By default, it is set to icons, but you can choose any type of asset and start searching.  
 
 <p align="center">
   <img width="700" height="348" src="https://github.com/Vargavinter/icons8docs/blob/85d3d9fe59d00777439c21b19f8a09cac216c7f7/images/landing.png">
@@ -19,6 +19,25 @@ Just type in a request into the search bar and click the  <img align="center" 
 
 At the top of the results appear those icons that contain the search word in their name or synonymical words.
 
+<p align="center">
+  <img width="900" src="https://github.com/Vargavinter/icons8docs/blob/3c6140ddbf101f92660c087cafc88ed240c4cee2/images/timesearchnew.png">
+</p>
+<br>
+If you want to make search results more precise, you can filter them by styles, types, or designers.
+<br>
+<br>
+<p align="center">
+  <img width="800" height="432" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/filters2.png">
+</p>
+
+* **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
+    
+* **Types.** With this one you can either look for static icons or animated ones.
+    
+* **Designers.** Provides an option to choose between icons made by our in-house team or those created by independent authors.
+    
+
+**Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](https://github.com/Vargavinter/icons8docs/blob/main/Icons.md#editor) for further customization.
 
 <details>
 <summary>
@@ -33,29 +52,6 @@ At the top of the results appear those icons that contain the search word in the
     
 * Don’t add the word “icon” to your search request.
 </details>
-    
-
-<p align="center">
-  <img width="900" height="385" src="https://github.com/Vargavinter/icons8docs/blob/1cc418050e0e0dfa33c230a1698c1c0e586db489/images/timesearch.png">
-</p>
-
-If you want to make search results more precise, you can filter them by styles, types, or designers.
-
-<p align="center">
-  <img width="800" height="432" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/filters2.png">
-</p>
-
-
-  
-
-* **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
-    
-* **Types.** With this one you can either look for static icons or animated ones.
-    
-* **Designers.** Provides an option to choose between icons made by our in-house team or those created by independent authors.
-    
-
-**Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](https://github.com/Vargavinter/icons8docs/blob/main/Icons.md#editor) for further customization.
 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
