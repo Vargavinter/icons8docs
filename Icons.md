@@ -35,7 +35,9 @@ At the top of the results appear those icons that contain the search word in the
 </details>
     
 
-![Searching for an icon](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/timesearch.png?token=GHSAT0AAAAAABWYONLLU5EKFTGV3RG4U5SEYW2WDVA)
+<p align="center">
+  <img width="900" height="385" src="https://github.com/Vargavinter/icons8docs/blob/1cc418050e0e0dfa33c230a1698c1c0e586db489/images/timesearch.png">
+</p>
 
 If you want to make search results more precise, you can filter them by styles, types, or designers.
 
