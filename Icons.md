@@ -11,11 +11,11 @@ This page is dedicated to our icon library where you can find icons for your des
 
 Each time you visit [icons8.com](http://icons8.com/) you are greeted by the search bar, the main tool to help you find whatever asset you need. By default, it is set to icons, but you can choose any type of asset and start searching.
 
-![](attachments/65657/3538951.png)
+![Main search bar](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/landing.png?token=GHSAT0AAAAAABWYONLKT7HSJ4I5CU7YOD3IYW2WF4A)
 
-Let’s say you want to look for **Ship** icons. If you type a request into the search bar and click the **Search** button, you will see the search results page with a variety of icons in different styles.
+Just type in a request into the search bar and click the **Search** button, you will see the search results page with a variety of icons in different styles.
 
-At the top of the results appear those icons that contain the search word in their name or synonymical words. In this case, when we look for **Ship**, the search engine first will list such icons as **Paper Ship**, **Shipped** and **Port.**
+At the top of the results appear those icons that contain the search word in their name or synonymical words.
 
 
 <details>
@@ -33,11 +33,11 @@ At the top of the results appear those icons that contain the search word in the
 </details>
     
 
-![](attachments/65657/4915201.png)
+![Searching for an icon](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/timesearch.png?token=GHSAT0AAAAAABWYONLLU5EKFTGV3RG4U5SEYW2WDVA)
 
 If you want to make search results more precise, you can filter them by styles, types, or designers.
 
-![](attachments/65657/6914068.png?width=340)
+![Search filters](https://raw.githubusercontent.com/Vargavinter/icons8docs/main/images/filters2.png?token=GHSAT0AAAAAABWYONLKAACRXTBCG3P6PORIYW2WE5A)
 
   
 
