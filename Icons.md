@@ -27,7 +27,7 @@ If you want to make search results more precise, you can filter them by styles, 
 <br>
 <br>
 <p align="center">
-  <img width="800" height="432" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/filters2.png">
+  <img width="900" src="https://github.com/Vargavinter/icons8docs/blob/673e4b7afde741faad82cad4906c803bd2f7abf2/images/filtersnew.png">
 </p>
 
 * **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
@@ -56,7 +56,7 @@ If you want to make search results more precise, you can filter them by styles, 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
 <p align="center">
-  <img width="819" height="550" src="https://github.com/Vargavinter/icons8docs/blob/30e8573cd7a996e40b1f4bfd5100c4916b4de454/images/categories.png">
+  <img width="900" src="https://github.com/Vargavinter/icons8docs/blob/673e4b7afde741faad82cad4906c803bd2f7abf2/images/categoriesnew.png">
 </p>
 
   
