@@ -66,7 +66,8 @@ You can also filter icons by topics. Use **Categories** menu located on the left
   
 Take on board that there are three free icon categories: **Logos**, **Popular** and **Characters**. All download options for those icons are available from the get-go but using them still requires attribution.
 
-Commercial usage of icons from the Logos and Characters categories should be discussed with the rightful owners of respective trademarks.
+
+:information_source: Commercial usage of icons from the Logos and Characters categories should be discussed with the rightful owners of respective trademarks.
 
 * * *
 
