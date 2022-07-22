@@ -113,7 +113,7 @@ If you want to edit an icon, choose either **Edit in Lunacy** or **Edit in Mega 
 * * *
 
 ## Collections
-===========
+
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk.
 
@@ -159,7 +159,7 @@ When you click on a particular collection and open it, you will see several opti
 * * *
 
 ## Editor
-======
+
 
 Editor is a tool that lets you edit our icons without the use of any external software. You can access the Editor by clicking on a particular icon, its options are located to the left of the icon.
 
@@ -197,7 +197,7 @@ While modes can be paired with effects, only one effect can be active at a time.
 * * *
 
 ## Common questions
-================
+
 
 **Case #1. How do I download multiple icons at once?**  
 Hover over each icon and click **\+ Collection**. When you are ready to download them, open the [Collections](https://folkarchive.atlassian.net/wiki/spaces/ICONS8/pages/1114113/Working+with+Icons8#Collections) tab and press Download button on the right, then select the format, size and color. Done!
