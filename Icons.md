@@ -102,10 +102,10 @@ If you want to have more formats such as .ico, .xaml and .eps, consider using [P
 The **preview** area displays how an icon will look in your project. You can switch between light and dark backgrounds by clicking the corresponding buttons in the top-right corner of the menu (Light/Dark).
 
 <p align="center">
-  <img width="800" height="530" src="https://github.com/Vargavinter/icons8docs/blob/7a947aae5ad55d4bbffaa4059dd4a601ec5e1bb9/images/preview.png">
+  <img width="900" src="https://github.com/Vargavinter/icons8docs/blob/8bc2a9d739ca9c6ede1e877222ba789edc2b1525/images/previewnew.png">
 </p>
 
-If you want to edit an icon, choose either **Edit in Lunacy** or **Edit in Mega Creator** buttons. You can use Mega Creator if you want to combine an icon with other elements like text or graphics. Lunacy lets you edit vector icons and change them in any way you want. Note that these options are unavailable for _Animated icons_.
+If you want to edit an icon, choose either the **Edit in Lunacy** or **Edit in Mega Creator** button. Mega Creator is good for combining an icon with other elements like text or graphics. Lunacy lets you edit vector icons and change them in any way you want. Note that these options are unavailable for _Animated icons_.
 
 * * *
 
