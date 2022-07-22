@@ -17,13 +17,20 @@ Let’s say you want to look for **Ship** icons. If you type a request into the 
 
 At the top of the results appear those icons that contain the search word in their name or synonymical words. In this case, when we look for **Ship**, the search engine first will list such icons as **Paper Ship**, **Shipped** and **Port.**
 
-Search Tips
+
+<details>
+<summary>
+        
+#### Search Tips
+        
+</summary>
 
 * You will get the best results if you use a single search word instead of multiple words. Shorten your request to make it easier to process.
     
 * If you are not satisfied with the search result, try to use synonyms.
     
 * Don’t add the word “icon” to your search request.
+</details>
     
 
 ![](attachments/65657/4915201.png)
