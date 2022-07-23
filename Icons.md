@@ -197,7 +197,7 @@ While modes can be paired with effects, only one effect can be active at a time.
 
 
 **Case #1. How do I download multiple icons at once?**  
-Hover over each icon and click **\+ Collection**. When you are ready to download them, open the [Collections](https://github.com/Vargavinter/icons8docs/blob/main/Icons.md#collections) tab and press Download button on the right, then select the format, size and color. Done!
+Hover over each icon and click  <img align="center" height="25" src="https://github.com/Vargavinter/icons8docs/blob/1f28a6773b87c8429a1b3e633b96f52b4e2c49e2/images/addtocollectionnew.png"> . When you are ready to download them, open the [Collections](https://github.com/Vargavinter/icons8docs/blob/main/Icons.md#collections) tab and press Download button on the right, then select the format, size and color. Done!
 
 **Case #2. Can I recolor an icon?**  
 Yes, you can! Clicking on a particular icon will open the [Editor](https://github.com/Vargavinter/icons8docs/edit/main/Icons.md#editor), where you can enable the recoloring mode. It works both for single-color icons and for fancy colored ones. You also can recolor icons in bulk within the Collections tab.
