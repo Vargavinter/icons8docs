@@ -214,7 +214,9 @@ Yes, for minor adjustments like color, size, backgrounds and outlines you can us
 
 We have a special filter for that! Just search for an icon you need to get to the search results screen, then click on the _All styles_ button to choose a particular style.
 
-![](attachments/65657/3702804.png?width=204)
+<p align="center">
+  <img width="800" src="https://github.com/Vargavinter/icons8docs/blob/ae4c05bae7b5ac9487b3a206c0ab147fb130f74e/images/searchbystyles.png">
+</p>
 
 **Case #6. I found an icon I need, but I don’t like the way it looks**
 
@@ -222,4 +224,6 @@ When you click on a particular icon, you will see a panel with 2 tabs below it.
 
 The first tab is what you’re looking for. Clicking on the arrow at the far-right side of the panel will let you see all styles this icon is available in.
 
-![](attachments/65657/3768326.png?width=340)
+<p align="center">
+  <img width="800" src="https://github.com/Vargavinter/icons8docs/blob/12adcc2361bb027935bf88aa12d6757e4194629f/images/ducky3.png">
+</p>
