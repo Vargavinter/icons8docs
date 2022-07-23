@@ -164,7 +164,7 @@ Editor is a tool that lets you edit our icons without the use of any external so
     
 * **Overlay mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come in the same style as the selected icon, so you don’t have to worry about consistency. Overlays can be recolored the same way as icons and moved to a different part of a canvas.
 
-![Overlay](https://cloud.icons8.com/s/LXtaBXK8pcogaFX)
+![Overlay](https://eduhseru-my.sharepoint.com/:v:/g/personal/emmasaltsev_edu_hse_ru/EX8LK0wiUSZLuUm9gNlXYzwB4WI_TXwV40IhwW2Utq5Dig?e=s5Ttn3)
  
 * **Text** tool is enough for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
     
