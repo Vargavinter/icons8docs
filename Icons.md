@@ -105,7 +105,7 @@ The **preview** area displays how an icon will look in your project. You can swi
   <img width="900" src="https://github.com/Vargavinter/icons8docs/blob/8bc2a9d739ca9c6ede1e877222ba789edc2b1525/images/previewnew.png">
 </p>
 
-If you want to edit an icon, choose either the  <img align="center" height="40" src="https://github.com/Vargavinter/icons8docs/blob/e8a819bc232e24d93129be88fcb28214b6ccf251/images/editinlunacybutton.png">  or  <img align="center" height="40" src="https://github.com/Vargavinter/icons8docs/blob/bd709f2b67b659772bfcd30a9172d143e05fde23/images/edit%20in%20mega%20creator.png">  button. Mega Creator is good for combining an icon with other elements like text or graphics. Lunacy lets you edit vector icons and change them in any way you want. Note that these options are unavailable for _Animated icons_.
+If you want to edit an icon, choose either the  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/f5c4fa7d5d07f6d195a78de064af47d412f24eb8/images/editinlunacybutton2.png">  or  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/f5c4fa7d5d07f6d195a78de064af47d412f24eb8/images/editinmegacreatorbutton.png">  button. Mega Creator is good for combining an icon with other elements like text or graphics. Lunacy lets you edit vector icons and change them in any way you want. Note that these options are unavailable for _Animated icons_.
 
 * * *
 
