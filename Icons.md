@@ -162,7 +162,7 @@ Editor is a tool that lets you edit our icons without the use of any external so
 
 * **Recoloring mode.** Lets you recolor any static icons present on our website, both single-color and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value.  
     
-    [recolor.mp4](attachments/65657/4030475.mp4)
+<video autoplay="" muted="" loop="" playsinline="" width="auto" poster="" height="auto"><source src="images/overlaydragnew4.mp4" type="video/mp4"></video>
     
 * **Overlay mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come in the same style as the selected icon, so you don’t have to worry about consistency. Overlays can be recolored the same way as icons and moved to a different part of a canvas.
 
