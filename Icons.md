@@ -71,7 +71,7 @@ Take on board that there are three free icon categories: **Logos**, **Popular** 
 
 
   
-Click on the icon you like to open the expanded menu and press the green **Download** button.
+Click on the icon you like to open the expanded menu and press the green  <img align="center" height="55" src="https://github.com/Vargavinter/icons8docs/blob/cc75ee15769ecf9c418cd8e815faeac10d8a2165/images/downloadbutton.png">  button.
 
 You will see a new window where you can select the format and size, and also see the embedding options.
 
@@ -114,7 +114,7 @@ If you want to edit an icon, choose either the  <img align="center" height="40
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk.
 
-You can find all your collections if you click the  <img align="center" height="40" src="https://github.com/Vargavinter/icons8docs/blob/f8492f5ab718ac0755d0125d3156bfddb100c6d8/images/open%20collections.png">  button in the bottom-left corner of the screen. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
+You can find all your collections if you click the  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/309862a0daa3d874bedbace85c964c774822e6fe/images/opencollectionsbutton.png">  button in the bottom-left corner of the screen. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
 ![](attachments/65657/3571713.png?width=340)
 
@@ -124,7 +124,7 @@ You can create a new collection by clicking on the  <img align="center" height
 
 To add an icon to a collection, hover a cursor over the icon and click  <img align="center" height="25" src="https://github.com/Vargavinter/icons8docs/blob/1f28a6773b87c8429a1b3e633b96f52b4e2c49e2/images/addtocollectionnew.png"> . This sends the icon to an active collection. By default, the **Favorites** collection is active.
 
-You can also add an icon to a collection simply by dragging it onto a Collection area.
+You can also add an icon to a collection simply by dragging it onto the Collection area.
 
 [collections.mp4](attachments/65657/4030469.mp4)
 
