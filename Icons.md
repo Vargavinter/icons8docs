@@ -190,9 +190,9 @@ Editor is a tool that lets you edit our icons without the use of any external so
         
 
 While modes can be paired with effects, only one effect can be active at a time.
-
+<br>
 * * *
-
+<br>
 ## Common questions
 
 
@@ -200,7 +200,7 @@ While modes can be paired with effects, only one effect can be active at a time.
 Hover over each icon and click **\+ Collection**. When you are ready to download them, open the [Collections](https://folkarchive.atlassian.net/wiki/spaces/ICONS8/pages/1114113/Working+with+Icons8#Collections) tab and press Download button on the right, then select the format, size and color. Done!
 
 **Case #2. Can I recolor an icon?**  
-Yes, you can! Clicking on a particular icon will open the [Editor](https://folkarchive.atlassian.net/wiki/spaces/ICONS8/pages/1114113/Working+with+Icons8#Editor), where you can enable the recoloring mode. It works both for single-color icons and for fancy colored ones. You also can recolor icons in bulk within the Collections tab.
+Yes, you can! Clicking on a particular icon will open the [Editor](https://github.com/Vargavinter/icons8docs/edit/main/Icons.md#editor), where you can enable the recoloring mode. It works both for single-color icons and for fancy colored ones. You also can recolor icons in bulk within the Collections tab.
 
 **Case #3. I couldn’t find an icon I need**
 
@@ -208,7 +208,7 @@ If you haven’t found a suitable icon, or wish it was in a different style, you
 
 **Case #4. Is it possible to edit your icons?**
 
-Yes, for minor adjustments like color, size, backgrounds and outlines you can use our inbuilt [Editor](https://folkarchive.atlassian.net/wiki/spaces/ICONS8/pages/1114113/Working+with+Icons8#Editor). To be able to edit vector paths of an icon, uncheck the **Simplified SVG** option for the SVG format in the download popup.
+Yes, for minor adjustments like color, size, backgrounds and outlines you can use our inbuilt [Editor](https://github.com/Vargavinter/icons8docs/edit/main/Icons.md#editor). To be able to edit vector paths of an icon, uncheck the **Simplified SVG** option for the SVG format in the download popup.
 
 **Case #5. How do I find an icon in a particular style?**
 
