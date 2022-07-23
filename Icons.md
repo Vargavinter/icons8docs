@@ -165,9 +165,8 @@ Editor is a tool that lets you edit our icons without the use of any external so
     [recolor.mp4](attachments/65657/4030475.mp4)
     
 * **Overlay mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come in the same style as the selected icon, so you don’t have to worry about consistency. Overlays can be recolored the same way as icons and moved to a different part of a canvas.
-    
-    [overlay.mp4](attachments/65657/4358145.mp4)
-    
+
+ 
 * **Text** tool is enough for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
     
 * **Stroke** adds an outline to an icon and it’s overlay if the mode is enabled. You can also tweak thickness and color of the outline.
@@ -189,10 +188,10 @@ Editor is a tool that lets you edit our icons without the use of any external so
     * Stroke. Has corner radius and outline thickness controls.
         
 
-While modes can be paired with effects, only one effect can be active at a time.
-<br>
+:warning: While modes can be paired with effects, only one effect can be active at a time.
+
 * * *
-<br>
+
 ## Common questions
 
 
