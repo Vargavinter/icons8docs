@@ -79,7 +79,7 @@ You will see a new window where you can select the format and size, and also see
 
 Here’s an overview of every download option we have:
 
-| STATIC FORMATS |                                                                                                                                                                                                                                                             |
+| <img width=115/> STATIC FORMATS |<img align="center" height="45" src="images/icons8-person-laying-down-64.png">|
 |:--------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **PNG**          | Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan).                                                                                                                                               |
 | **SVG**          | Best solution for graphic design. You can resize them however you want without losing quality. Comes in simplified form by default, while unchecking the corresponding option in the download menu will let you edit the vector paths such icon is made of. |
@@ -91,7 +91,7 @@ Here’s an overview of every download option we have:
 
 If you want to have more formats such as .ico, .xaml and .eps, consider using [Pichon](https://icons8.com/app/windows) for Windows.
 
-|      ANIMATED FORMATS     |                                                                                                                                     |
+|      ANIMATED FORMATS     |<img align="center" height="45" src="images/icons8-walking.gif">|
 |:-------------------------:|-------------------------------------------------------------------------------------------------------------------------------------|
 |          **GIF**          | The most basic and widely supported format for animated images.                                                                     |
 |          **JSON**         | A more advanced format. Lottie is a library that renders animations on mobile or on the web and makes animated icons run smoothly.  |
@@ -162,10 +162,9 @@ Editor is a tool that lets you edit our icons without the use of any external so
 
 * **Recoloring mode.** Lets you recolor any static icons present on our website, both single-color and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value.  
     
-<video autoplay="" muted="" loop="" playsinline="" width="auto" poster="" height="auto"><source src="images/overlaydragnew4.mp4" type="video/mp4"></video>
-    
 * **Overlay mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come in the same style as the selected icon, so you don’t have to worry about consistency. Overlays can be recolored the same way as icons and moved to a different part of a canvas.
 
+![Overlay](https://cloud.icons8.com/s/LXtaBXK8pcogaFX)
  
 * **Text** tool is enough for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
     
