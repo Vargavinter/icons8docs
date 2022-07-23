@@ -132,9 +132,9 @@ When you click on a particular collection and open it, you will see several opti
 
 ![](attachments/65657/2916353.png?width=544)
 
-1.  Plus button allows you to upload your own SVG files to be stored in the collection.
+1.  <img align="center" height="50" src="https://github.com/Vargavinter/icons8docs/blob/c61914e5b34b33fa049cf358d13a18e6dd6bc684/images/addiconbutton.png"> button allows you to upload your own SVG files to be stored in the collection.
     
-2.  **Download** option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
+2.  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/c61914e5b34b33fa049cf358d13a18e6dd6bc684/images/downloadcollbutton.png"> option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
     
     * **PNGs** of up to 1600x1600px.
         
@@ -144,13 +144,13 @@ When you click on a particular collection and open it, you will see several opti
         
     * **PDFs**
         
-3.  **Recolor** option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
+3.  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/c61914e5b34b33fa049cf358d13a18e6dd6bc684/images/recolorcollbutton.png"> option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
     
-4.  **Share** option generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
+4.  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/c61914e5b34b33fa049cf358d13a18e6dd6bc684/images/sharecollbutton.png"> button generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
     
-5.  **Rename** option does what it says on the box, lets you rename a collection to something more personal than Collection 3.
+5.  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/c61914e5b34b33fa049cf358d13a18e6dd6bc684/images/renamecollbutton.png"> option does what it says on the box, lets you rename a collection to something more personal than Collection 3.
     
-6.  **Delete collection** option, well, deletes the active collection. This action is irreversible.
+6.  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/c61914e5b34b33fa049cf358d13a18e6dd6bc684/images/deletecollbutton.png">, well, deletes the active collection. This action is irreversible.
     
 
 * * *
