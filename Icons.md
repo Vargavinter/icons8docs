@@ -117,9 +117,7 @@ Collections let you organize your icons, sort them by projects, recolor and down
 You can find all your collections if you click the  <img align="center" height="45" src="https://github.com/Vargavinter/icons8docs/blob/309862a0daa3d874bedbace85c964c774822e6fe/images/opencollectionsbutton.png">  button in the bottom-left corner of the screen. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
 ![](attachments/65657/3571713.png?width=340)
-
 You can create a new collection by clicking on the  <img align="center" height="75" src="https://github.com/Vargavinter/icons8docs/blob/b64ce50d290dc6900b96a0f5a5873c13e539c176/images/button3.png">
-
 ![](attachments/65657/2785283.png?width=442)
 
 To add an icon to a collection, hover a cursor over the icon and click  <img align="center" height="25" src="https://github.com/Vargavinter/icons8docs/blob/1f28a6773b87c8429a1b3e633b96f52b4e2c49e2/images/addtocollectionnew.png"> . This sends the icon to an active collection. By default, the **Favorites** collection is active.
@@ -130,7 +128,9 @@ You can also add an icon to a collection simply by dragging it onto the Collecti
 
 When you click on a particular collection and open it, you will see several options:
 
-![](attachments/65657/2916353.png?width=544)
+<p align="center">
+  <img width="900" src="images/generalcollections2.png">
+</p>
 
 1.  <img align="center" height="50" src="https://github.com/Vargavinter/icons8docs/blob/c61914e5b34b33fa049cf358d13a18e6dd6bc684/images/addiconbutton.png"> button allows you to upload your own SVG files to be stored in the collection.
     
